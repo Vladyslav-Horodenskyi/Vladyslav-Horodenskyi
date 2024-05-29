@@ -12,7 +12,7 @@
 </p>
 
 <div align="left">
-### 👨🏽‍💻 &nbsp;About Vladyslav Horodenskyi
+### 👨🏽‍💻 &nbsp;<h1>About Vladyslav Horodenskyi</h1>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Vladyslav-Horodenskyi/Vladyslav-Horodenskyi/blob/main/coding.gif?raw=true">
 
